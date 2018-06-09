@@ -1,0 +1,6 @@
+﻿  Shunting-yard.cpp
+  Source.cpp
+  Создание кода...
+c:\users\cirilva\downloads\lab6\lab6\shunting-yard.cpp(101): warning C4715: calculator: значение возвращается не при всех путях выполнения
+c:\users\cirilva\downloads\lab6\lab6\shunting-yard.cpp(122): warning C4715: getPriority: значение возвращается не при всех путях выполнения
+  Lab6.vcxproj -> C:\Users\cirilva\Downloads\lab6\x64\Debug\Lab6.exe
